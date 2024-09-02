@@ -34,6 +34,8 @@ I am a PMP-certified professional with deep technical expertise in:
 
 - **AWS Certified Solutions Architect**
 - **Google Cloud Certified Data Engineer**
+- **PMP Project Management Professional**
+- **Scrum Master Professional**
 
 I excel in architecting robust, scalable solutions, seamlessly integrating strategic vision with technical execution to achieve operational excellence and client satisfaction.
 
