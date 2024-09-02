@@ -10,16 +10,19 @@ I'm currently working on **Pulse - AI Advisor**, a cutting-edge AI-driven platfo
 
 ## Core Specialties
 
-- **Client & Stakeholder Management**
+
 - **Digital Transformation & Innovation**
 - **Program & Project Management** (PMP, SCRUM Master)
 - **Product Development & Lifecycle Management**
-- **Establishing Best Practices & Efficient Processes**
+- **Full Strack Development**
 - **Data Engineering, Machine Learning & AI**
 - **Solution Architecting & Cloud Solutions**
 - **Cybersecurity**
 - **Legal, Risk & Compliance Management**
 - **Cloud IT Infrastructure & Vendor Management**
+- **Establishing Best Practices & Efficient Processes**
+- **Client & Stakeholder Management**
+
 
 ## Technical Proficiency
 
