@@ -1,47 +1,68 @@
 # Russlan Ramdowar
 
-**Digital Business Management Expert** | **Consultant** | **Full Stack Developer** | **Data Engineer** | **Cloud Architect** | **AI Specialist** | **Startup Entrepreneur**
+**Transformation Manager at M42 | Technology Leader | Full-Stack Product Builder | Data & AI Engineer | Quantitative Developer**
 
-With 9 years of experience and over 48 successful projects under my belt, I deliver comprehensive solutions across the entire value chain—from strategic vision to technical execution. My expertise spans diverse industries, including Finance, Healthcare, Public Sector, Genomics, and Environmental Sciences.
+I am a technology and transformation leader with 9+ years of experience across two regulated, data-intensive industries: healthcare and financial services. I work across strategy, operations, product, data, AI, cloud, and software engineering — connecting executive priorities with hands-on technical delivery.
 
-## Current Work
+Across my career, I have contributed to more than **48 projects and products**, including 30+ healthcare initiatives, with a focus on building scalable systems and turning complex transformation goals into measurable outcomes.
 
-I'm currently working on **Pulse - AI Advisor**, a cutting-edge AI-driven platform designed to provide intelligent insights and predictions. This project is under **FutureEdge Organization**, which I founded. All related repositories are private, reflecting the proprietary nature of this advanced AI solution.
+## What I work on
 
-## Core Specialties
+- **Healthcare transformation:** patient-care delivery at scale, hospital and laboratory operations, new laboratory activation, genomics, biotechnology, longevity, precision medicine, advanced diagnostics, healthcare AI, LLM solutions, and FHIR interoperability.
+- **Full-stack product engineering:** product architecture, front-end and back-end development, APIs, integrations, cloud deployment, DevOps, observability, and secure production operations.
+- **Data engineering at scale:** batch and streaming pipelines, ETL/ELT, orchestration, data quality, analytics platforms, machine learning workflows, and cloud-native data infrastructure.
+- **Quantitative development:** software for quantitative modelling, financial analytics, market research, risk systems, and evidence-driven investment workflows.
+- **Agentic AI:** multi-agent architectures, retrieval and research workflows, evaluation, transparency, model risk, and human-in-the-loop decision support.
+- **Product and growth:** product strategy, lifecycle management, user discovery, rapid experimentation, analytics, distribution, and growth hacking.
 
+## Healthcare transformation
 
-- **Digital Transformation & Innovation**
-- **Program & Project Management** (PMP, SCRUM Master)
-- **Product Development & Lifecycle Management**
-- **Full Strack Development**
-- **Data Engineering, Machine Learning & AI**
-- **Solution Architecting & Cloud Solutions**
-- **Cybersecurity**
-- **Legal, Risk & Compliance Management**
-- **Cloud IT Infrastructure & Vendor Management**
-- **Establishing Best Practices & Efficient Processes**
-- **Client & Stakeholder Management**
+At **M42**, and previously **G42 Healthcare**, I have led or contributed to 30+ initiatives focused on patient-care delivery at scale, hospital and laboratory operational improvement, PMO and governance, and the use of data and AI to improve quality, capacity, efficiency, and patient experience.
 
+My work spans operating models and transformation roadmaps, programme and portfolio governance, laboratory establishment and activation, advanced diagnostics, genomics, precision medicine, healthcare AI, and interoperable digital-health solutions.
 
-## Technical Proficiency
+## Financial services and technology
 
-I am a PMP-certified professional with deep technical expertise in:
+My financial-services background spans **J.P. Morgan, Societe Generale Corporate & Investment Banking, PwC, and Accenture**. It includes strategic programme management, digital transformation, AI strategy, data science, cloud architecture, and software development for quantitative modelling and trading-risk systems.
 
-- **Full Stack Development**: Proficient in designing and developing scalable applications across front-end and back-end technologies.
-- **Cloud Solutions**: Architected and deployed solutions on leading cloud platforms, including **GCP**, **Azure**, and **AWS**.
-- **Data Engineering**: Specialized in building robust data pipelines, ETL processes, and advanced data analytics solutions.
-- **AI & Machine Learning**: Delivered AI-driven solutions that leverage machine learning models and large-scale data processing.
+That experience shaped how I build: rigorous about evidence and controls, pragmatic about delivery, and comfortable moving between business strategy, data platforms, system architecture, and code.
 
-## Certifications
+## Building iPulse AI
 
-- **AWS Certified Solutions Architect**
-- **Google Cloud Certified Data Engineer**
-- **PMP Project Management Professional**
-- **Scrum Master Professional**
+Alongside my full-time role, I am the Founder of **Future Edge Group**, the company behind [iPulse AI](https://ipulseai.com) — an **Open Agentic Investment Research Platform**.
 
-I excel in architecting robust, scalable solutions, seamlessly integrating strategic vision with technical execution to achieve operational excellence and client satisfaction.
+I am building iPulse AI across the full product and technology stack: scalable data ingestion and processing, cloud infrastructure, APIs, quantitative research workflows, multi-agent orchestration, evaluation and observability, user-facing research experiences, product analytics, and growth experiments.
+
+Specialized AI agents examine market evidence from different perspectives, surface disagreement, assess risks and drivers, and produce transparent research that investors and analysts can inspect rather than accept as a black-box answer.
+
+**Open** means making research, experiments, architecture, configurations, methodology, evidence, past forecasts, evaluations, limitations, and lessons inspectable — including what did not work. It does not automatically mean that all source code, proprietary data, or production infrastructure is open source.
+
+## Core expertise
+
+| Domain | Focus |
+| --- | --- |
+| Transformation | Healthcare and financial-services strategy, operating models, PMO, governance, and execution |
+| Software engineering | Full-stack applications, APIs, integrations, cloud-native systems, DevOps, and production operations |
+| Data and AI | Data platforms, pipelines, analytics, machine learning, LLMs, agentic AI, and evaluation |
+| Quantitative technology | Modelling, trading-risk systems, financial analytics, and investment-research tooling |
+| Product and growth | Product strategy, lifecycle management, discovery, experimentation, analytics, and growth hacking |
+| Cloud architecture | GCP, AWS, and Azure |
+
+## Credentials and education
+
+I am **PMP-certified**, a **Professional Scrum Master**, a **P3GP governance professional**, and a **Google Cloud Professional Data Engineer**, with postgraduate education in **Artificial Intelligence at Tsinghua University** and **Engineering Management at INSA Lyon**.
+
+## Author
+
+I wrote *Hymn Of Modernity: Machine Learning, Augmented Reality, Big Data, Qubit, Neuralink and All Other Important Vocabulary It's Time to Know* — an accessible guide to the technologies and ideas shaping the modern world.
+
+## Connect
+
+- [iPulse AI](https://ipulseai.com)
+- [Future Edge Group on GitHub](https://github.com/TheFutureEdge)
+- [LinkedIn](https://www.linkedin.com/in/ramdowarrusslan/)
+- [Medium](https://medium.com/@russlan)
 
 ---
 
-Feel free to reach out to discuss potential collaborations or consulting opportunities.
+*Future Edge Group and iPulse AI are independent initiatives and are not affiliated with M42.*
