@@ -1,8 +1,8 @@
 # Russlan Ramdowar
 
-**Transformation Manager at M42 | Technology Leader | Full-Stack Product Builder | Data & AI Engineer | Quantitative Developer**
+** Venture Builder | Published Author | Investor | Data & AI Engineer | Quantitative Developer | Project & Product Manager **
 
-I am a technology and transformation leader with 9+ years of experience across two regulated, data-intensive industries: healthcare and financial services. I work across strategy, operations, product, data, AI, cloud, and software engineering — connecting executive priorities with hands-on technical delivery.
+I am a technology and transformation leader with 10+ years of experience across two regulated, data-intensive industries: healthcare and financial services. I work across strategy, operations, product, data, AI, cloud, and software engineering — connecting executive priorities with hands-on technical delivery.
 
 Across my career, I have contributed to more than **48 projects and products**, including 30+ healthcare initiatives, with a focus on building scalable systems and turning complex transformation goals into measurable outcomes.
 
@@ -14,6 +14,16 @@ Across my career, I have contributed to more than **48 projects and products**, 
 - **Quantitative development:** software for quantitative modelling, financial analytics, market research, risk systems, and evidence-driven investment workflows.
 - **Agentic AI:** multi-agent architectures, retrieval and research workflows, evaluation, transparency, model risk, and human-in-the-loop decision support.
 - **Product and growth:** product strategy, lifecycle management, user discovery, rapid experimentation, analytics, distribution, and growth hacking.
+
+## Building iPulse AI
+
+I am the Founder of **Future Edge Group**, the company behind [iPulse AI](https://ipulseai.com) — an **Open Agentic Investment Research Platform**.
+
+I am building iPulse AI across the full product and technology stack: scalable data ingestion and processing, cloud infrastructure, APIs, quantitative research workflows, multi-agent orchestration, evaluation and observability, user-facing research experiences, product analytics, and growth experiments.
+
+Specialized AI agents examine market evidence from different perspectives, surface disagreement, assess risks and drivers, and produce transparent research that investors and analysts can inspect rather than accept as a black-box answer.
+
+**Open** means making research, experiments, architecture, configurations, methodology, evidence, past forecasts, evaluations, limitations, and lessons inspectable — including what did not work. It does not automatically mean that all source code, proprietary data, or production infrastructure is open source.
 
 ## Healthcare transformation
 
@@ -27,21 +37,11 @@ My financial-services background spans **J.P. Morgan, Societe Generale Corporate
 
 That experience shaped how I build: rigorous about evidence and controls, pragmatic about delivery, and comfortable moving between business strategy, data platforms, system architecture, and code.
 
-## Building iPulse AI
-
-Alongside my full-time role, I am the Founder of **Future Edge Group**, the company behind [iPulse AI](https://ipulseai.com) — an **Open Agentic Investment Research Platform**.
-
-I am building iPulse AI across the full product and technology stack: scalable data ingestion and processing, cloud infrastructure, APIs, quantitative research workflows, multi-agent orchestration, evaluation and observability, user-facing research experiences, product analytics, and growth experiments.
-
-Specialized AI agents examine market evidence from different perspectives, surface disagreement, assess risks and drivers, and produce transparent research that investors and analysts can inspect rather than accept as a black-box answer.
-
-**Open** means making research, experiments, architecture, configurations, methodology, evidence, past forecasts, evaluations, limitations, and lessons inspectable — including what did not work. It does not automatically mean that all source code, proprietary data, or production infrastructure is open source.
-
 ## Core expertise
 
 | Domain | Focus |
 | --- | --- |
-| Transformation | Healthcare and financial-services strategy, operating models, PMO, governance, and execution |
+| Transformation and Project Management| Healthcare and financial-services strategy, operating models, PMO, governance, and execution |
 | Software engineering | Full-stack applications, APIs, integrations, cloud-native systems, DevOps, and production operations |
 | Data and AI | Data platforms, pipelines, analytics, machine learning, LLMs, agentic AI, and evaluation |
 | Quantitative technology | Modelling, trading-risk systems, financial analytics, and investment-research tooling |
